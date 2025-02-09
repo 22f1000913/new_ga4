@@ -1,5 +1,4 @@
-name: Daily Commit
-
+name:  22f1000913@ds.study.iitm.ac.in
 on:
   schedule:
     - cron: '30 2 * * *'  # Runs daily at 02:30 UTC
